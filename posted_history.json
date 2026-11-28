@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T09:25:00+09:00",
+  "updated_at": "2026-11-28T09:47:00+09:00",
   "posted": [
     {
       "date": "2026-11-27",
@@ -136,6 +136,62 @@
       "board": "공공일자리·교육",
       "title": "[광양] 노인일자리 2,215명·월 29만 원 (12/4 마감)",
       "official_link": "https://blog.naver.com/gysc7200/224482090067",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-75",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[여수] 금호석유화학 생산보조원 1명·연봉 3,500만 (11/30 마감)",
+      "official_link": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K162232611240011&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-76",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[여수] LG화학 안전작업 입회자·일급 144,000원 (11/30 마감)",
+      "official_link": "https://m.saramin.co.kr/job-search/view?rec_idx=55461211",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-77",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[전남] 수자원공사 AI 인턴 150명·영섬 22명 (12/4 마감)",
+      "official_link": "https://kwater.recruit-zone.co.kr/recruits/6afd320d5d0a3cedd8c8fc0b",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-78",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[여수] LG화학 공정지원 5명·시급 12,500원 (12/31 마감)",
+      "official_link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50431942",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-79",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[광양] 포스코필바라 생산직·정규직, 율촌 (11/30 마감)",
+      "official_link": "https://m.saramin.co.kr/job-search/view?rec_idx=55599449",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-80",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[광양] 포스코DX 전기설비 정비·계약직 (11/30 마감)",
+      "official_link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389942",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-81",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[여수] 정규직·경력 2~8년, 한화 바이오소재 생산 Operator (11/30 마감)",
+      "official_link": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-82",
+      "board": "🏭 대기업·공기업(여순광)",
+      "title": "[광양] 계약직·경력, 포스코A&C 소방 감리원 (12/31 마감)",
+      "official_link": "https://poscoanc.recruiter.co.kr/career/jobs/130322",
       "posted_at": "2026-11-28"
     }
   ]
