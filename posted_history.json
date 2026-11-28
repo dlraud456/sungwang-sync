@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T20:55:00+09:00",
+  "updated_at": "2026-11-28T09:25:00+09:00",
   "posted": [
     {
       "date": "2026-11-27",
@@ -102,6 +102,41 @@
       "board": "동네 수다방",
       "title": "[동네 수다방] 이번 주말(11/28~29) 여순광 비 소식·기온 뚝! 옷차림 챙기세요",
       "url": "https://www.weather.go.kr/w/forecast/overall/short-term.do"
+    },
+    {
+      "id": "job-2026-11-27-03",
+      "board": "공공일자리·교육",
+      "title": "[여수] 파크골프장 2명·시급 10,700원, 55세 이상 (12/7 마감)",
+      "official_link": "https://www.yeosu.go.kr/www/sphere/job/recruit_info?idx=81365&mode=view",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-10",
+      "board": "공공일자리·교육",
+      "title": "[여수] 물가모니터 10명·일 82,320원, 월 8일 근무 (12/4 마감)",
+      "official_link": "https://www.yeosu.go.kr/www/sphere/job/recruit_info?idx=81279&mode=view",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-35",
+      "board": "공공일자리·교육",
+      "title": "[순천] 공원녹지과 112명·12/3부터 접수 (12/4 마감)",
+      "official_link": "https://www.suncheon.go.kr/kr/news/0005/?mode=view&seq=64421",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-36",
+      "board": "공공일자리·교육",
+      "title": "[순천] 시립도서관 33명·12/1부터 접수 (12/2 마감)",
+      "official_link": "https://www.suncheon.go.kr/kr/news/0005/?mode=view&seq=64412",
+      "posted_at": "2026-11-28"
+    },
+    {
+      "id": "job-2026-11-27-54",
+      "board": "공공일자리·교육",
+      "title": "[광양] 노인일자리 2,215명·월 29만 원 (12/4 마감)",
+      "official_link": "https://blog.naver.com/gysc7200/224482090067",
+      "posted_at": "2026-11-28"
     }
   ]
 }
